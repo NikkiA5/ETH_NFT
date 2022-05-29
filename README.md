@@ -1,6 +1,8 @@
 Now u can mint/deploy in one click and 6 words
 ![](https://github.com/NikkiA5/ETH_NFT/blob/main/proofs_command.png)
+Than u can see ur deploy
 ![](https://github.com/NikkiA5/ETH_NFT/blob/main/proofs.png)
+And u can see ur mint
 ![](https://github.com/NikkiA5/ETH_NFT/blob/main/mint_proofs.png)
 
 Everything u need -- MetaMask wallet & Alchemy.  
