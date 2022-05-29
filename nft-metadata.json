@@ -1,0 +1,16 @@
+{
+    "attributes": [
+    {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+    },
+    {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+    }
+],
+    "description": "Geometry Doggo",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmae9FGUuEugu8LR2A2C5fkPVbg2mMWp7HQnnDQ3WzkgmS",
+    "name": "Nikki",
+    "CID": "QmRV4Zm9nyG4bkH5EdGmTDtFgUyHxqFyyQF3AJvJgrSimx"
+}
